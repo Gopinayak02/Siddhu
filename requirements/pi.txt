@@ -1,0 +1,7 @@
+numpy
+sounddevice
+soxr
+PyYAML==6.0.3
+faster-whisper
+piper-tts
+pyopen-wakeword==1.0.1
